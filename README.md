@@ -4,7 +4,7 @@ CipherStudio is a full-stack web-based code editor and compiler that allows user
 
 ---
 
-Features
+# Features
 
  Real-time Code Editing – Write and edit code with live preview support
 
@@ -22,7 +22,7 @@ Features
 
  ---
 
- Tech Stack
+ # Tech Stack
 Layer	Technology
 Frontend	React.js, Vite, Tailwind CSS
 Backend	Node.js, Express.js
@@ -32,7 +32,7 @@ API Requests	Axios
 
 ---
 
-Usage
+# Usage
 
 Sign up or log in to your account
 
